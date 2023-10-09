@@ -1,1 +1,2 @@
 training file from first branch
+Resolving merge conflict here
